@@ -22,5 +22,5 @@ How to start : `npm run start-apiservice`
 # Features
 1. Password encryption and update validation
 2. Product content pagination
-3. Simple JWT for protected route
+3. Simple JWT for protected route and authorization for users data update
 4. Products data retrieval by ID or name
